@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/List of UNAM journals under contract with Elsevier (DGAJ-DPI-39-081114-241)/List
+      of UNAM journals under contract with Elsevier (DGAJ-DPI-39-081114-241).csv
+    type: table
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/175959/articles/212019/master/file/figures/List%20of%20UNAM%20journals%20under%20contract%20with%20Elsevier%20(DGAJ-DPI-39-081114-241)/List%20of%20UNAM%20journals%20under%20contract%20with%20Elsevier%20(DGAJ-DPI-39-081114-241).csv"
