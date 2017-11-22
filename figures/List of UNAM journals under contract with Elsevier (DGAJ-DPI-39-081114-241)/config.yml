@@ -20,3 +20,4 @@ grid:
     url: "/users/175959/articles/212019/master/file/figures/List%20of%20UNAM%20journals%20under%20contract%20with%20Elsevier%20(DGAJ-DPI-39-081114-241)/List%20of%20UNAM%20journals%20under%20contract%20with%20Elsevier%20(DGAJ-DPI-39-081114-241).csv"
     folder_url: "/users/175959/articles/212019/master/folder/figures/List of UNAM
       journals under contract with Elsevier (DGAJ-DPI-39-081114-241)"
+    treatFirstLineAsHeader: true
