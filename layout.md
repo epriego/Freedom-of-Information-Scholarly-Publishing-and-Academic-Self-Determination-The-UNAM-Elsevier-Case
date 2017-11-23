@@ -1,8 +1,6 @@
 abstract.html
 untitled.html
 58bb4vh5l4o.html
-rpdmrog0v9.html
-2um5tfq8f1s.html
 qm81n36c39s.html
 fc97bfe26r8.html
 pnbq8nsprmo.html
